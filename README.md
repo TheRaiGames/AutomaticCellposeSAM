@@ -386,6 +386,6 @@ I hope this tool will be helpful for the scientific community! If you are progra
 
 ---
 
-*Last updated: January 2025*
+*Last updated: August 2025*
 
 **⭐ If this tool is useful for your research, please consider starring the repository and citing the original Cellpose papers!**
