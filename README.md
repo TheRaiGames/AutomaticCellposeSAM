@@ -351,16 +351,6 @@ This project is licensed under the **BSD 3-Clause License** - see the [LICENSE](
 
 ---
 
-## 🙏 Acknowledgments
-
-Special thanks to:
-- **Cellpose team** (Stringer, Pachitariu et al.) for the foundational segmentation algorithm
-- **PyTorch team** for the deep learning framework
-- **Scientific Python community** for the ecosystem of tools
-- **Cursor and Anthropic** for AI-assisted development tools
-
----
-
 ## 📞 Support
 
 For Cellpose-specific questions, refer to the [official repository](https://github.com/MouseLand/cellpose).
